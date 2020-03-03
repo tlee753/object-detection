@@ -6,3 +6,5 @@ finding boats
 - https://medium.com/deepquestai/train-object-detection-ai-with-6-lines-of-code-6d087063f6ff
 - https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
 
+### Pretrained Model
+`wget !wget https://github.com/OlafenwaMoses/ImageAI/releases/download/essential-v4/pretrained-yolov3.h5`
