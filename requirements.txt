@@ -1,0 +1,4 @@
+imageai
+keras
+opencv
+tensorflow-gpu==1.15
