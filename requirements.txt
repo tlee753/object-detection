@@ -1,4 +1,4 @@
 imageai
 keras
 opencv
-tensorflow-gpu==1.15
+tensorflow-gpu==1.15.2
