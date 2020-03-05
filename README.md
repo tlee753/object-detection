@@ -8,3 +8,5 @@ simple object detection using imageai
 `wget https://github.com/OlafenwaMoses/ImageAI/releases/download/essential-v4/pretrained-yolov3.h5`
 
 `python3 detect-trainer.py`
+
+![Nassua](./boats/109.jpg)
