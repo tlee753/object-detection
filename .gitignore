@@ -1,10 +1,16 @@
+# system files
 .DS_Store
 .vscode
-.pyc
+*.pyc
 
+# pretrained model
 pretrained-yolov3.h5
 
+# training files
 data/cache
 data/json
 data/logs
 data/models
+
+# detected images
+*-detected.jpg
