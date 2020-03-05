@@ -9,4 +9,4 @@ simple object detection using imageai
 
 `python3 detect-trainer.py`
 
-![Nassua](./boats/109.jpg)
+![Nassua](./boats/113.jpg)
