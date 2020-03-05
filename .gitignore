@@ -2,4 +2,9 @@
 .vscode
 .pyc
 
-pretrained-yolo3.h5
+pretrained-yolov3.h5
+
+data/cache
+data/json
+data/logs
+data/models
