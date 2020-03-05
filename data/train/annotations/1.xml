@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>1.jpg</filename>
-	<path>/Users/tylerlee/Github/object-detection/data/images/1.jpg</path>
+	<path>/Users/tylerlee/Github/object-detection/data/train/images/1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
