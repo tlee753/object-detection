@@ -1,7 +1,16 @@
 # Object Detection
 simple object detection of boats using [`imageai`](https://github.com/OlafenwaMoses/ImageAI)
 
-### Instructions
+## Instructions
+
+### Virtual Environment (Optional)
+`mkdir virtual-env`
+
+`python3 -m venv virtual-env`
+
+`. virtual-env/bin/activate`
+
+### Python Object Detection
 `pip3 install -r requirements.txt`
 
 `wget https://github.com/OlafenwaMoses/ImageAI/releases/download/essential-v4/pretrained-yolov3.h5`
