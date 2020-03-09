@@ -3,6 +3,10 @@
 .vscode
 *.pyc
 
+# virtual env
+venv
+virtual-env
+
 # pretrained model
 pretrained-yolov3.h5
 
