@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
-	<filename>3.jpg</filename>
-	<path>/Users/tylerlee/Github/object-detection/data/train/images/3.jpg</path>
+	<folder>Pictures</folder>
+	<filename>2.jpg</filename>
+	<path>/Users/tylerlee/Pictures/2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1920</width>
-		<height>1080</height>
+		<width>1280</width>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,130 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
-			<ymin>139</ymin>
-			<xmax>186</xmax>
-			<ymax>148</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>341</xmin>
-			<ymin>194</ymin>
-			<xmax>351</xmax>
-			<ymax>202</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>562</xmin>
-			<ymin>338</ymin>
-			<xmax>573</xmax>
-			<ymax>347</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>708</xmin>
-			<ymin>348</ymin>
-			<xmax>719</xmax>
-			<ymax>354</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>946</xmin>
-			<ymin>214</ymin>
-			<xmax>959</xmax>
-			<ymax>223</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1089</xmin>
-			<ymin>225</ymin>
-			<xmax>1096</xmax>
-			<ymax>232</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1353</xmin>
-			<ymin>56</ymin>
-			<xmax>1365</xmax>
-			<ymax>67</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>805</xmin>
-			<ymin>681</ymin>
-			<xmax>814</xmax>
-			<ymax>692</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>173</xmin>
-			<ymin>938</ymin>
-			<xmax>182</xmax>
-			<ymax>945</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1778</xmin>
-			<ymin>851</ymin>
-			<xmax>1786</xmax>
-			<ymax>867</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>234</xmin>
-			<ymin>646</ymin>
-			<xmax>239</xmax>
-			<ymax>651</ymax>
+			<xmin>448</xmin>
+			<ymin>377</ymin>
+			<xmax>455</xmax>
+			<ymax>386</ymax>
 		</bndbox>
 	</object>
 </annotation>

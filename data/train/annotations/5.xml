@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
-	<filename>9.jpg</filename>
-	<path>/Users/tylerlee/Github/object-detection/data/train/images/9.jpg</path>
+	<folder>Pictures</folder>
+	<filename>5.jpg</filename>
+	<path>/Users/tylerlee/Pictures/5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1920</width>
-		<height>1080</height>
+		<width>1280</width>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>434</xmin>
-			<ymin>346</ymin>
-			<xmax>452</xmax>
-			<ymax>361</ymax>
+			<xmin>693</xmin>
+			<ymin>143</ymin>
+			<xmax>700</xmax>
+			<ymax>149</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>505</xmin>
-			<ymin>71</ymin>
-			<xmax>510</xmax>
-			<ymax>75</ymax>
+			<xmin>751</xmin>
+			<ymin>117</ymin>
+			<xmax>755</xmax>
+			<ymax>121</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>535</xmin>
-			<ymin>146</ymin>
-			<xmax>540</xmax>
-			<ymax>151</ymax>
+			<xmin>697</xmin>
+			<ymin>201</ymin>
+			<xmax>700</xmax>
+			<ymax>205</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,58 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>681</xmin>
-			<ymin>377</ymin>
-			<xmax>688</xmax>
-			<ymax>385</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>842</xmin>
-			<ymin>133</ymin>
-			<xmax>849</xmax>
-			<ymax>142</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>819</xmin>
-			<ymin>96</ymin>
-			<xmax>824</xmax>
-			<ymax>101</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1018</xmin>
-			<ymin>360</ymin>
-			<xmax>1028</xmax>
-			<ymax>367</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1105</xmin>
-			<ymin>825</ymin>
-			<xmax>1116</xmax>
-			<ymax>836</ymax>
+			<xmin>797</xmin>
+			<ymin>437</ymin>
+			<xmax>804</xmax>
+			<ymax>442</ymax>
 		</bndbox>
 	</object>
 </annotation>

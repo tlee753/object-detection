@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
-	<filename>11.jpg</filename>
-	<path>/Users/tylerlee/Github/object-detection/data/train/images/11.jpg</path>
+	<folder>Pictures</folder>
+	<filename>6.jpg</filename>
+	<path>/Users/tylerlee/Pictures/6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1920</width>
-		<height>1080</height>
+		<width>1280</width>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1742</xmin>
-			<ymin>138</ymin>
-			<xmax>1751</xmax>
-			<ymax>147</ymax>
+			<xmin>280</xmin>
+			<ymin>371</ymin>
+			<xmax>289</xmax>
+			<ymax>376</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1484</xmin>
-			<ymin>373</ymin>
-			<xmax>1492</xmax>
-			<ymax>387</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1220</xmin>
-			<ymin>752</ymin>
-			<xmax>1227</xmax>
-			<ymax>765</ymax>
+			<xmin>791</xmin>
+			<ymin>350</ymin>
+			<xmax>799</xmax>
+			<ymax>358</ymax>
 		</bndbox>
 	</object>
 </annotation>
