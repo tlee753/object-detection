@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Pictures</folder>
-	<filename>15.jpg</filename>
-	<path>/Users/tylerlee/Pictures/15.jpg</path>
+	<filename>20.jpg</filename>
+	<path>/Users/tylerlee/Pictures/20.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>boat</name>
+		<name>satboat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>256</xmin>
-			<ymin>260</ymin>
-			<xmax>264</xmax>
-			<ymax>267</ymax>
+			<xmin>189</xmin>
+			<ymin>87</ymin>
+			<xmax>207</xmax>
+			<ymax>92</ymax>
 		</bndbox>
 	</object>
 </annotation>
